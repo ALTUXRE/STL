@@ -1,2 +1,3 @@
 # STL
 This repository contains a collection of C++ code files that demonstrate the usage of the Standard Template Library (STL).
+The STL is a powerful library in C++ that provides various containers, algorithms, and utilities to streamline and enhance programming tasks. In this repository, you will find examples and implementations showcasing the functionality and usage of different STL components such as vectors, lists, maps, algorithms, and more. Whether you are a beginner learning STL or an experienced developer looking for reference material, this repository can serve as a valuable resource for understanding and practicing with the STL in C++.
