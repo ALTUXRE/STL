@@ -113,6 +113,16 @@ int main (){
 // QUEUE //
 
         FIFO = FIRST IN FISRT OUT 
+        queue<int>q;
+        q.push(1);
+        q.push(2);
+        q.push(3);{1,2,3}
+
+        q.back() += 5; 
+        cout << q.back(); prints 8
+        cout << q.front() prints 1
+        cout << q.pop(); prints {2,9}
+        cout << q.front() prints 2
         
 
 
